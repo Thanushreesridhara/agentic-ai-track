@@ -1,0 +1,14 @@
+# secrets & env
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# runtime artifacts
+emails.txt
